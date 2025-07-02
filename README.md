@@ -66,7 +66,7 @@ I wanted to create a simple way to:
 
 Now anyone can get quick calorie estimates with just a photo or text description! 🚀
 
-## 🚧 Coming Soon
+## 🚧 Upcoming feature in development
 - 🌙 Dark mode support
 - 🏃‍♂️ Running time calculations
 - 📊 History tracking
