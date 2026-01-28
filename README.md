@@ -1,5 +1,5 @@
 # 🍔 CaloriesGPT 🏃‍♂️
-
+ 
 ## 🚀 Introduction
 Ever wondered **how many calories** are in your food? Let AI help you figure it out! 🤯
 
