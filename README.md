@@ -1,77 +1,72 @@
-# 🍔 CaloriesGPT 🏃‍♂️
- 
-## 🚀 Introduction
-Ever wondered **how many calories** are in your food? Let AI help you figure it out! 🤯
+🍔 CaloriesGPT 🏃‍♂️
+🚀 Introducción
 
-This AI-powered **Calorie Counter Web App** makes it easy to estimate calories in your food. Just enter a food item or take a photo with your camera, and the app will:
+¿Alguna vez te preguntaste cuántas calorías tiene lo que estás comiendo? Dejá que la IA se encargue 🤯
 
-✅ Use AI to predict the **total calories** 🍕
-✅ Provide a **clean, modern UI** for a smooth experience ✨
-✅ Support real-time **camera capture** for instant analysis 📸
+CaloriesGPT es una app web para contar calorías usando inteligencia artificial. Solo tenés que escribir el nombre de un alimento o sacarle una foto, y la app se encarga de:
 
----
+✅ Estimar las calorías totales 🍕
+✅ Mostrar todo en una interfaz limpia y moderna ✨
+✅ Analizar comida en tiempo real usando la cámara 📸
 
-## 🛠️ Tech Stack
-- **Frontend:** Vite + React ⚡ | TailwindCSS 🎨
-- **AI Integration:** OpenAI API 🤖
-- **Camera Support:** Native Web APIs 📸
+🛠️ Tecnologías
 
----
+Frontend: Vite + React ⚡ | TailwindCSS 🎨
 
-## 🎯 Features
-- 📸 **AI-powered calorie detection**
-- 📱 **Mobile-first design** with camera support
-- 🤖 **OpenAI integration** for accurate predictions
-- 🎨 **Clean, modern UI** built with TailwindCSS
+IA: OpenAI API 🤖
 
----
+Cámara: Web APIs nativas 📸
 
-## 📦 Installation & Setup
-```bash
-# Clone the repo
+🎯 Funcionalidades
+
+📸 Detección de calorías con IA
+
+📱 Diseño mobile-first con soporte para cámara
+
+🤖 Integración con OpenAI para mejores estimaciones
+
+🎨 UI moderna y minimalista con TailwindCSS
+
+📦 Instalación y configuración
+# Clonar el repositorio
 git clone https://github.com/facudelima/CaloriesGPT.git
 
-# Navigate to the project directory
+# Entrar al proyecto
 cd CaloriesGPT
 
-# Install dependencies
+# Instalar dependencias
 npm install
 
-# Set up environment variables
+# Variables de entorno
 cp .env.local.example .env.local
-# Add your API key inside .env.local
+# Agregá tu API key en .env.local
 
-# Run the app
+# Ejecutar la app
 npm run dev
-```
 
----
 
-## 🔥 Demo
-Coming soon! 🚧
+🤖 ¿Cómo funciona?
 
----
+1️⃣ Ingresás un alimento o sacás una foto 📸
+2️⃣ La IA analiza la información y estima las calorías 🔍
+3️⃣ Ves el resultado al instante en una interfaz simple 🎯
 
-## 🤖 How It Works
-1️⃣ Enter a **food item** OR take a **photo** with your camera 📸
-2️⃣ The AI analyzes your input and predicts the **calories** 🔍
-3️⃣ Get instant results in a clean and simple UI! 🎯
+🏆 ¿Por qué lo hice?
 
----
+La idea fue crear una forma simple de:
+1️⃣ Estimar calorías rápidamente usando IA 🤖
+2️⃣ Hacerlo accesible desde una interfaz fácil de usar 📱
 
-## 🏆 Why I Built This?
-I wanted to create a simple way to:
-1️⃣ **Quickly estimate calories in food** using AI 🤖
-2️⃣ **Make it accessible** through an easy-to-use interface 📱
+Con solo una foto o un texto, ya tenés una estimación en segundos 🚀
 
-Now anyone can get quick calorie estimates with just a photo or text description! 🚀
+🚧 Funcionalidades en desarrollo
 
-## 🚧 Upcoming feature in development
-- 🌙 Dark mode support
-- 🏃‍♂️ Running time calculations
-- 📊 History tracking
-- 📷 Image upload support (in addition to camera capture)
+🌙 Modo oscuro
 
----
+🏃‍♂️ Cálculo de tiempo de running
 
-🔥 Let's make calorie tracking easier with AI! 🤖
+📊 Historial de comidas
+
+📷 Subida de imágenes (además de la cámara)
+
+🔥 Hagamos el conteo de calorías más simple con IA 🤖
